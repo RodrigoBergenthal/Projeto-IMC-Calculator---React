@@ -1,5 +1,5 @@
 import React from 'react';
-import './App.css'; // Importe os estilos, se necessário
+import './App.css'; 
 import Calculadora from './components/Calculadora';
 
 function App() {
