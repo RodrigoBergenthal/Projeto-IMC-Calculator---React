@@ -151,8 +151,4 @@ body, html {
 }
 ```
 
-## Considerações Finais
 
-Este projeto é um exemplo básico de como criar uma calculadora de IMC usando React. Você pode expandir este projeto adicionando mais funcionalidades, validação de formulário, estilos mais avançados e outras melhorias conforme necessário.
-
----
